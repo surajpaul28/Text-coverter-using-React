@@ -75,4 +75,4 @@ This app is built to change the normal text into uppercase and lowercase. There 
 The app is fully responsive.
 
 # Screenshot
-![Display Page](src/images)
+![Display Page](src/images/screenshot.png)
