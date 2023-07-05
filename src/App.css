@@ -49,9 +49,7 @@
   color: red;
   font-size: 30px;
 }
-.container-fluid{
-  background-color: rgb(151, 240, 240);
-}
+
 .form-label{
   margin-top: 30px;
   font-size: 25px;
@@ -73,4 +71,9 @@
 .button:hover{
   background-color: white;
   color: blue;
+}
+.heading{
+  font-size: 50px;
+  color: aliceblue;
+  margin: 30px;
 }
